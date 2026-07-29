@@ -1,0 +1,20 @@
+{
+  "app_titulo": "Carteirinha Digital de Vacinas",
+  "app_subtitulo": "Dra Carol Rios",
+
+  "cor_principal":  "#00897B",
+  "cor_fundo_leve": "#E0F2F1",
+  "cor_borda":      "#80CBC4",
+
+  "logo": "icons/icon-192.png",
+
+  "medico_nome":       "Dra Carol Rios",
+  "medico_cargo":      "Médica Pediatra",
+  "medico_crm":        "CREMEC 8866 • RQE: 5659",
+  "medico_instagram":  "@dracarolrios",
+  "medico_foto":       "carol.foto.jpg",
+  "medico_badges":     ["@clinicaequilibriumsobral","@clinica_rever","@polimedicacrateus"],
+  "medico_bio": ["Esse aplicativo foi criado com muito carinho pra você organizar a vacinação do seu filho. Vamos juntos proteger a saúde de todas as crianças!"],
+
+  "quote": "Vacinas salvam vidas!"
+}
