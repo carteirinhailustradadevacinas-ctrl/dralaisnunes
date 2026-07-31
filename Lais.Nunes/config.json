@@ -2,19 +2,20 @@
   "app_titulo": "Carteirinha Digital de Vacinas",
   "app_subtitulo": "Dra Lais Nunes",
 
-  "cor_principal":  "#0073E6",
-  "cor_fundo_leve": "#EBF5FF",
-  "cor_borda":      "#76B9FF",
+  "cor_principal":  "#6A1B9A",
+  "cor_fundo_leve": "#F3E5F5",
+  "cor_borda":      "#CE93D8",
 
   "logo": "icons/icon-192.png",
 
   "medico_nome":       "Dra Laís Nunes",
-  "medico_cargo":      "Médica Pediatra",
+  "medico_cargo":      "Pediatra Pós Graduada em Gastroenterologia Pediátrica pelo H. Albert Einstein",
   "medico_crm":        "CRM 229514/RQE 137337",
   "medico_instagram":  "@dralaisnunes",
   "medico_foto":       "lais.foto.png",
-  "medico_badges":     ["Franca-SP","@neoluz.fototerapiaemcasa","Atendimento domiciliar"],
-  "medico_bio": ["Esse aplicativo foi criado com muito carinho pra você organizar a vacinação do seu filho. Vamos juntos proteger a saúde de todas as crianças!"],
+  "medico_badges":     ["CRM 229514","RQE 137337"],
+  "medico_bio": ["Olá família! Este aplicativo vai ajudá-los a se orientar com relação ao calendário vacinal. Aqui você encontra a importância de cada vacina, indicações e contraindicações, melhor momento para realização, diferenças entre as aplicações fornecidas pelo SUS x Particular e muito mais.
+Juntos vamos garantir a melhor proteção aos nossos pequenos 💜"],
 
-  "quote": "Vacinas salvam vidas!"
+  "quote": "Vacinar é um gesto de amor e proteção que acompanha seu filho por toda vida."
 }
