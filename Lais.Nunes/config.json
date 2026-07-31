@@ -14,7 +14,8 @@
   "medico_instagram":  "@dralaisnunes",
   "medico_foto":       "lais.foto.png",
   "medico_badges":     ["CRM 229514","RQE 137337"],
-  "medico_bio": ["Olá, família! Este aplicativo vai ajudá-los a se orientar com relação ao calendário vacinal. Aqui você encontra a importância de cada vacina, indicações e contraindicações, melhor momento para realização, diferenças entre as aplicações fornecidas pelo SUS x Particular e muito mais. Juntos vamos garantir a melhor proteção ao nossos pequenos"],
+  "medico_bio": [
+    "Olá, família! Este aplicativo vai ajudá-los a se orientar com relação ao calendário vacinal. Aqui você encontra a importância de cada vacina, indicações e contraindicações, melhor momento para realização, diferenças entre as aplicações fornecidas pelo SUS x Particular e muito mais. Juntos vamos garantir a melhor proteção ao nossos pequenos"],
 
   "quote": "Vacinar é um gesto de amor e proteção que acompanha seu filho por toda vida."
 }
